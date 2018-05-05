@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIAIDRILXTOK5FSAMPA
+  secretKey: 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
+  bucketName: phungbucket
